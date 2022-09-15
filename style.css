@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     background-image: url(https://m.media-amazon.com/images/G/01/sm/amped/lol11/heros/drop4_1abed/League_S11Drop4_desktop_hero_2x_grad.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 ul {
