@@ -11,4 +11,4 @@ Estou me suprerando cada dia!❤️
 Alexander AMSC 
 
 
-<img src="./imagens/github_spaceX.png" width="30" height="30" viewBox="0 0 30 30" alt="Linkdin">
+<img src="./imagens/github_spaceX.png" width="150" height="200" viewBox="0 0 150 200" alt="github">

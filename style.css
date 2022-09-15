@@ -115,7 +115,7 @@ section ul li {
 section ul li:hover {
     transform: scale(1.1)
 }
-
+/*seletor meu jogos*/
 .games-list img {
     width: 90px;
     border-radius: 8px;
