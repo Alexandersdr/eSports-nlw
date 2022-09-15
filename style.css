@@ -11,10 +11,7 @@
 ul {
     list-style: none;
 }
-.img {
-   
-   
-}
+
 .imgs{
     border-radius: 10px;
 }
@@ -25,8 +22,8 @@ ul {
    
 }
 body {
-    background-image: url(./assets/bg.jpg);
-    opacity: 0.7;
+    
+    opacity: 0.6;
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -134,6 +131,11 @@ section ul li:hover {
 
 header div {
     animation: fromTop .7s .2s backwards;
+}
+.sport{
+    text-align: left;
+    display: flex;
+    padding-bottom: 30px;
 }
 
 main section {
