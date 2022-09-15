@@ -15,7 +15,7 @@ ul {
     opacity: 1.0;
 }
 .imgs{
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 body {
@@ -84,6 +84,12 @@ section div {
 
 section h2 {
     letter-spacing: -0.47px;
+}
+.tex{
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 2px 2px blue;
 }
 
 section p {
