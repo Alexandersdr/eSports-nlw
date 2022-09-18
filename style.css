@@ -1,12 +1,13 @@
 
 
-* {
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(https://m.media-amazon.com/images/G/01/sm/amped/lol11/heros/drop4_1abed/League_S11Drop4_desktop_hero_2x_grad.jpg);
-    background-repeat: repeat-y;
-}
+    filter:opacity(1) ;
+    
+    
+} 
 
 ul {
     list-style: none;
@@ -16,8 +17,8 @@ ul {
     border-radius: 10px;
 }
 .jup{
-    box-shadow: 2px 2px 2px yellowgreen;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    box-shadow: 2px 2px 2px rgb(140, 117, 17);
+   
     border-radius: 30%;
     margin: auto;
 }
@@ -29,13 +30,17 @@ ul {
    
 }
 body {
-    background-image: url(./assets/bg.jpg);
-    opacity: 0.9;
+  
     border-radius: 30px;
-    background-position: top center;
+    position: left right;
     background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-color: #121214;
+    background-image: url(https://m.media-amazon.com/images/G/01/sm/amped/lol11/heros/drop4_1abed/League_S11Drop4_desktop_hero_2x_grad.jpg);
+    background-position: left right center center;
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: opacity(0.8);
+    
 }
 
 body * {
@@ -49,15 +54,14 @@ header {
 }
 
 header div {
+
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-
+    background-color: #443E54;
+    
     border-radius: 50%;
-
     display: flex;
-    padding: 4px;
-
+    padding: 5px;
     transition: transform .3s;
 }
 
@@ -82,12 +86,14 @@ main {
 section {
     color: white;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-    padding-top: 4px;
+    padding-top: 6px;
     border-radius: 10px;
 }
 
 section div {
-    background-color: #2A2634;
+    background-color:#2f244d;
+    fill-opacity: calc(0.7);
+    filter: blur(10);
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
@@ -105,8 +111,10 @@ section h2 {
 
 section p {
     letter-spacing: -0.18px;
-    color: #A1A1AA;
+    color: #E0BA47;
+    
 }
+/*Seletor game*/
 
 section ul {
     display: flex;
