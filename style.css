@@ -14,7 +14,6 @@ ul {
 }
 .jup{
     box-shadow: 2px 2px 2px rgb(140, 117, 17);
-   
     border-radius: 30%;
     margin: auto;
 }
@@ -32,7 +31,7 @@ body {
     background-size: 100% auto;
     background-image: url(https://m.media-amazon.com/images/G/01/sm/amped/lol11/heros/drop4_1abed/League_S11Drop4_desktop_hero_2x_grad.jpg);
     background-position: left right center center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-color: #443E54;
     background-size: cover;
     background-attachment: fixed;
