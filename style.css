@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    filter:opacity(1);
+    
 } 
 
 ul {
@@ -31,11 +31,11 @@ body {
     background-size: 100% auto;
     background-image: url(https://m.media-amazon.com/images/G/01/sm/amped/lol11/heros/drop4_1abed/League_S11Drop4_desktop_hero_2x_grad.jpg);
     background-position: left right center center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-color: #443E54;
     background-size: cover;
     background-attachment: fixed;
-    filter: opacity(0.8);
+    filter: opacity(0.9);
     
 }
 body * {
