@@ -30,6 +30,9 @@ body {
    
     background-size: 100% auto;
     background-image: url(./imagens/League3500x3200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
     
 
     
