@@ -29,10 +29,12 @@ body {
     border-radius: 30px;
    
     background-size: 100% auto;
-    background-image: url(./imagens/League3500x3200_duo.jpg);
+    background-image: url(./imagens/League3500x3200_left.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    width: 220vh;
+    height: 200vw;
     }
 body * {
     font-family: 'Inter', sans-serif;
